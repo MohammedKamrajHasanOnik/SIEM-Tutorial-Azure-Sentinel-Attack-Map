@@ -16,7 +16,6 @@
 - <b>Kusto Query Language</b>
 - <b>Azure log analytics workspace</b>
 - <b>Azure Security Center</b>
-- <b>Log Analytics Workspace</b>
 - <b>Microsoft Defender Cloud</b>
 
 <h2>Environments Used</h2>
