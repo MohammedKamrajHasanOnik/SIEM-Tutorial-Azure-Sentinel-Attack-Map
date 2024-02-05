@@ -17,15 +17,15 @@
 
 <h2>Environments Used</h2>
 - <b>Azure</b>
-- <b>Windows 11 Azure Virtual machine</b>
-- <b>Powershell ise x86</b>
+- <b>Windows 10 Virtual Machine</b>
+- <b>Powershell ISE</b>
 
 <h2>Links to programs and scripts required</h2>
 
 - <b>Azure Portal:</b> https://portal.azure.com
 - <b>API key ipgeolocation:</b> https://app.ipgeolocation.io/
 - <b>Powerhsell Sentinel-Lab BRUTE_FORCE_ACTUAL.log (https://github.com/AnastasiaCoskuner/Sentinel-Lab/blob/main/BRUTE_FORCE_ACTUAL.log)
-
+- <b>Query Log:</b>(https://github.com/AnastasiaCoskuner/Sentinel-Lab/blob/main/query_log)   
 
 <h2 align="center">Program guide</h2>
 
