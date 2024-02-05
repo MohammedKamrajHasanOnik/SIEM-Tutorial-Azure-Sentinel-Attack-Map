@@ -61,6 +61,11 @@
 <br />
 <br />
 <br/>
+<b>Add inbound security to network security group virtual machine ports destination ports * means and all priority 100 is low also </b> <br/>
+<img src="https://i.imgur.com/v80IQzL.jpeg"/>
+<br />
+<br />
+<br/>
 <b>Review creating a virtual machine whilst azure does operations in the background</b> <br/>
 <img src="https://i.imgur.com/c0OGtDp.jpeg"/>
 <br />
